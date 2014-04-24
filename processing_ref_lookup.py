@@ -9,7 +9,7 @@ Processing.org reference:   http://processing.org/reference
 
 - Place this .py inside "Data/Packages/User"
 - Add a shortcut to your user keymap file, e.g.;
-        { "keys": ["ctrl+shift+]"], "command": "chuck_doc_search" }
+        { "keys": ["ctrl+shift+]"], "command": "processing_ref_lookup" }
 - To use, make a selection of for examples "ADSR", then press your shortcut
         key(s).
 
