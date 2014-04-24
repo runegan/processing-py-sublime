@@ -1,0 +1,14 @@
+[
+    {
+        "keys": ["super+enter"], "command": "build",
+        "args": {"variant": "OSX Run"}
+    },
+    {
+        "keys": ["super+alt+enter"], "command": "build",
+        "args": {"variant": "OSX Run main"}
+    },
+    {
+        "keys": ["super+shift+enter"], "command": "build",
+        "args": {"variant": "OSX Convert PDE"}
+    }
+]

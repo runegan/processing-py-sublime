@@ -1,0 +1,16 @@
+[
+    {
+        "keys": ["ctrl+shift+]"], "command": "processing_ref_lookup"
+    },
+    {
+        "keys": ["ctrl+enter"], "command": "build",
+    },
+    {
+        "keys": ["ctrl+alt+enter"], "command": "build",
+        "args": {"variant": "Run main"}
+    },
+    {
+        "keys": ["ctrl+shift+enter"], "command": "build",
+        "args": {"variant": "Convert PDE"}
+    }
+]
