@@ -5,6 +5,7 @@
 	<key>fileTypes</key>
 	<array>
 		<string>pyde</string>
+		<string>py</string>
 	</array>
 	<key>name</key>
 	<string>Processing-py</string>
@@ -46,6 +47,6 @@
 		</dict>
 	</array>
 	<key>scopeName</key>
-	<string>source.python.processing-py</string>
+	<string>source.python.pyde</string>
 </dict>
 </plist>
