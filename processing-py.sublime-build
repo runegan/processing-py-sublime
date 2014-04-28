@@ -29,12 +29,12 @@
         {
             "name": "OSX Convert PDE",
             "shell_cmd": "python /Users/quaestor/Dropbox/stuff/code/Processing-py/pde2py.py \"$file\" foo",
-            "selector": "source.java"
+            "selector": "source.pde"
         },
         {
             "name": "Convert PDE",
             "shell_cmd": "python C:\\Users\\IBM_ADMIN\\Dropbox\\stuff\\code\\Processing-py\\pde2py.py --force \"$file_path\" \"$file_path\\..\\python\"",
-            "selector": "source.java"
+            "selector": "source.pde"
         }
     ]
 }
