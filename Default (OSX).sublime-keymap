@@ -3,6 +3,10 @@
         "keys": ["ctrl+shift+]"], "command": "processing_ref_lookup"
     },
     {
+        "keys": ["super+enter"], "command": "build",
+        "args": {"variant": "OSX Run"}
+    },
+    {
         "keys": ["super+alt+enter"], "command": "build",
         "args": {"variant": "OSX Run main"}
     }
