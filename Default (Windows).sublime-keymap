@@ -7,6 +7,6 @@
     },
     {
         "keys": ["ctrl+alt+enter"], "command": "build",
-        "args": {"variant": "Run main"}
+        "args": {"variant": "Open with Processing"}
     }
 ]
