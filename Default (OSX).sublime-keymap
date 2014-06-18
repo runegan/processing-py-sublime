@@ -8,6 +8,6 @@
     },
     {
         "keys": ["super+alt+enter"], "command": "build",
-        "args": {"variant": "OSX Run main"}
+        "args": {"variant": "Open with Processing"}
     }
 ]
