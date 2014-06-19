@@ -1,5 +1,5 @@
 {
-        "scope": "source.python.processing-py",
+        "scope": "source.python.pyde",
 
         "completions":
         [
@@ -178,6 +178,8 @@
             "second",
             "set",
             "set",
+            "shape",
+            "shapeMode",
             "shininess",
             "shorten",
             "sin",
