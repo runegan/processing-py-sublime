@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[background(${1:grey});]]></content>
+    <description>background grey</description>
+    <scope>source.python.pyde</scope>
+    <tabTrigger>background</tabTrigger>
+</snippet>
