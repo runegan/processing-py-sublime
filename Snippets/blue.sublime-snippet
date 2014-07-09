@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[blue(${1:color});]]></content>
+    <content><![CDATA[blue(${1:color})]]></content>
     <description>blue</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>blue</tabTrigger>

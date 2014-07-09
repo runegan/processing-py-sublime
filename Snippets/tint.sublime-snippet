@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[tint(${8:${3:value1}, ${4:value2}, ${5:value3}${7:, ${6:alpha}}});]]></content>
+    <content><![CDATA[tint(${8:${3:value1}, ${4:value2}, ${5:value3}${7:, ${6:alpha}}})]]></content>
     <description>tint</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>tint</tabTrigger>

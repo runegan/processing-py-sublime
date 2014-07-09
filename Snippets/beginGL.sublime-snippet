@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[pgl.beginGL();
 $1
-pgl.endGL();]]></content>
+pgl.endGL()]]></content>
     <description>beginGL</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>begingl</tabTrigger>

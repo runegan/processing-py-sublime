@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[println(gl.glGetError());]]></content>
+    <content><![CDATA[println(gl.glGetError())]]></content>
     <description>glGetError</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>glgeterror</tabTrigger>

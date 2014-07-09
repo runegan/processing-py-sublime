@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[sin(${1:rad});]]></content>
+    <content><![CDATA[sin(${1:rad})]]></content>
     <description>sin</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>sin</tabTrigger>

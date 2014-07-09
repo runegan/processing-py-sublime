@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[// replaces the top of the active matrix stack with the identity matrix
-gl.glLoadIdentity();]]></content>
+gl.glLoadIdentity()]]></content>
     <description>glLoadIdentity</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>glloadidentity</tabTrigger>

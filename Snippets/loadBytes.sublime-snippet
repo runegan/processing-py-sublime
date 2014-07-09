@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[loadBytes(${2:"${1:filename}"});]]></content>
+    <content><![CDATA[loadBytes(${2:"${1:filename}"})]]></content>
     <description>loadBytes</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>load</tabTrigger>

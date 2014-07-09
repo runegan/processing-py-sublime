@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[ambient(${8:${3:value1}, ${4:value2}, ${5:value3}});]]></content>
+    <content><![CDATA[ambient(${8:${3:value1}, ${4:value2}, ${5:value3}})]]></content>
     <description>ambient</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>material</tabTrigger>

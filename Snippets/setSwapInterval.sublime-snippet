@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[// specify the minimum swap interval for buffer swaps.
-gl.setSwapInterval(${1:interval});]]></content>
+gl.setSwapInterval(${1:interval})]]></content>
     <description>setSwapInterval</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>glswapinterval</tabTrigger>

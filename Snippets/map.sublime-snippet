@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[map(${1:value}, ${2:low1}, ${4:high1}, ${5:low2}, ${6:high2});]]></content>
+    <content><![CDATA[map(${1:value}, ${2:low1}, ${4:high1}, ${5:low2}, ${6:high2})]]></content>
     <description>map</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>map</tabTrigger>

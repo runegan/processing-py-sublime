@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[reverse(${1:array});]]></content>
+    <content><![CDATA[reverse(${1:array})]]></content>
     <description>reverse</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>reverse</tabTrigger>

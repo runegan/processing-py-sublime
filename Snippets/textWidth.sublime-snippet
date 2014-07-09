@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[textWidth(${1:data});]]></content>
+    <content><![CDATA[textWidth(${1:data})]]></content>
     <description>textWidth</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>text</tabTrigger>

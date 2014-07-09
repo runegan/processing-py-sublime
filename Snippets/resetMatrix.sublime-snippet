@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[translate(${1:x}, ${2:y}, ${3:z});]]></content>
+    <content><![CDATA[translate(${1:x}, ${2:y}, ${3:z})]]></content>
     <description>resetMatrix</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>matrix</tabTrigger>

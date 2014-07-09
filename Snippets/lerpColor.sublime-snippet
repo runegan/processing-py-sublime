@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[lerpColor(${1:c1}, ${2:c2}, ${3:amt});]]></content>
+    <content><![CDATA[lerpColor(${1:c1}, ${2:c2}, ${3:amt})]]></content>
     <description>lerpColor</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>lerpcolor</tabTrigger>

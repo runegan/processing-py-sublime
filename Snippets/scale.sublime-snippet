@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[scale(${1:x}, ${2:y}${4:, ${3:z}});]]></content>
+    <content><![CDATA[scale(${1:x}, ${2:y}${4:, ${3:z}})]]></content>
     <description>scale</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>scale</tabTrigger>

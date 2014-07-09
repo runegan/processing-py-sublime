@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[match(${3:str}, ${4:regexp});]]></content>
+    <content><![CDATA[match(${3:str}, ${4:regexp})]]></content>
     <description>match</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>match</tabTrigger>

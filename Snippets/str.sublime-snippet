@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[str(${3:"${1:str}"});]]></content>
+    <content><![CDATA[str(${3:"${1:str}"})]]></content>
     <description>str</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>str</tabTrigger>

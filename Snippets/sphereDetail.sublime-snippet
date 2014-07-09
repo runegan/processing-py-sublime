@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[sphereDetail(${1:n});]]></content>
+    <content><![CDATA[sphereDetail(${1:n})]]></content>
     <description>sphereDetail</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>sphere</tabTrigger>

@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[pow(${1:num}, ${2:exponent});]]></content>
+    <content><![CDATA[pow(${1:num}, ${2:exponent})]]></content>
     <description>pow</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>pow</tabTrigger>

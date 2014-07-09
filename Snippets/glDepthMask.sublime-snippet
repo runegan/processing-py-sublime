@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[// enable or disable writing into the depth buffer
-gl.glDepthMask(${1:flag});]]></content>
+gl.glDepthMask(${1:flag})]]></content>
     <description>glDepthMask</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>gldepthmask</tabTrigger>

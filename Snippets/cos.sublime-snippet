@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[cos(${1:rad});]]></content>
+    <content><![CDATA[cos(${1:rad})]]></content>
     <description>cos</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>cos</tabTrigger>

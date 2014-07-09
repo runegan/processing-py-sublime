@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[curveDetail(${1:detail});]]></content>
+    <content><![CDATA[curveDetail(${1:detail})]]></content>
     <description>curveDetail</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>curve</tabTrigger>

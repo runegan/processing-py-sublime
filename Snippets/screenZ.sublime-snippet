@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[screenZ(${1:x}, ${2:y}, ${3:z});]]></content>
+    <content><![CDATA[screenZ(${1:x}, ${2:y}, ${3:z})]]></content>
     <description>screenZ</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>coordinates</tabTrigger>

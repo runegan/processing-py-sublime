@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[subset(${1:array}, ${2:offset});]]></content>
+    <content><![CDATA[subset(${1:array}, ${2:offset})]]></content>
     <description>subset</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>subset</tabTrigger>

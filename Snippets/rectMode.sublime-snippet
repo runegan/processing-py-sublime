@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[rectMode(${1:CENTER});]]></content>
+	<content><![CDATA[rectMode(${1:CENTER})]]></content>
 	<description>rectMode</description>
 	<scope>source.python.pyde</scope>
 	<tabTrigger>rect</tabTrigger>

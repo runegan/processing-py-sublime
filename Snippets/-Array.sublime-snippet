@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[${1:int}[] ${2:numbers} ${6:= new $1[${3:length}]};]]></content>
+    <content><![CDATA[${1:int}[] ${2:numbers} ${6:= new $1[${3:length}]}]]></content>
     <description>Array</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>array</tabTrigger>

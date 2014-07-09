@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[constrain(${1:value}, ${2:min}, ${3:max});]]></content>
+    <content><![CDATA[constrain(${1:value}, ${2:min}, ${3:max})]]></content>
     <description>constrain</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>constrain</tabTrigger>

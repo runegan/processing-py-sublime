@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[join(${3:strgArray}, ${4:seperator});]]></content>
+    <content><![CDATA[join(${3:strgArray}, ${4:seperator})]]></content>
     <description>join</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>join</tabTrigger>

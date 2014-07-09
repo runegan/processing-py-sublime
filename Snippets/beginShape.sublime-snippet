@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[beginShape(${1:kind});]]></content>
+    <content><![CDATA[beginShape(${1:kind})]]></content>
     <description>beginShape</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>beginshape</tabTrigger>

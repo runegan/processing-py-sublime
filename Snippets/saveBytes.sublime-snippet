@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[saveBytes(${1:filename}, ${2:bytes});]]></content>
+    <content><![CDATA[saveBytes(${1:filename}, ${2:bytes})]]></content>
     <description>saveBytes</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>file</tabTrigger>

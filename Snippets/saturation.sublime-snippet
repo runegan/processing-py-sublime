@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[saturation(${1:color});]]></content>
+    <content><![CDATA[saturation(${1:color})]]></content>
     <description>saturation</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>saturation</tabTrigger>

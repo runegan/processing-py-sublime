@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[hex(${3:c});]]></content>
+    <content><![CDATA[hex(${3:c})]]></content>
     <description>hex</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>hex</tabTrigger>

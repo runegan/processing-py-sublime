@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[// execute a display list
-gl.glCallList(${1:list});]]></content>
+gl.glCallList(${1:list})]]></content>
     <description>glCallList</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>glcalllist</tabTrigger>

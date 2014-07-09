@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[abs(${1:value});]]></content>
+    <content><![CDATA[abs(${1:value})]]></content>
     <description>abs</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>abs</tabTrigger>

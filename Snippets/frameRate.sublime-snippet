@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[frameRate($0);]]></content>
+    <content><![CDATA[frameRate($0)]]></content>
     <description>frameRate (set)</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>framerate</tabTrigger>

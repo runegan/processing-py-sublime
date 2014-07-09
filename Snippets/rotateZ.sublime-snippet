@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[rotateZ(${1:rad});]]></content>
+    <content><![CDATA[rotateZ(${1:rad})]]></content>
     <description>rotateZ</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>rotate</tabTrigger>

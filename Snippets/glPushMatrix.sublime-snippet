@@ -2,7 +2,7 @@
     <content><![CDATA[// spush and pop the current matrix stack
 gl.glPushMatrix();
 $1
-gl.glPopMatrix();]]></content>
+gl.glPopMatrix()]]></content>
     <description>glPushMatrix</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>glpushmatrix</tabTrigger>

@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[norm(${1:value}, ${2:low}, ${3:high});]]></content>
+    <content><![CDATA[norm(${1:value}, ${2:low}, ${3:high})]]></content>
     <description>norm</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>norm</tabTrigger>

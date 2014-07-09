@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[${1:font} = loadFont(${3:"${2:FFScala-32.vlw}"});]]></content>
+    <content><![CDATA[${1:font} = loadFont(${3:"${2:FFScala-32.vlw}"})]]></content>
     <description>loadFont</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>font</tabTrigger>

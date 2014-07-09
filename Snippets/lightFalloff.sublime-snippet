@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[lightFalloff(${1:constant}, ${2:linear}, ${3:quadratic});]]></content>
+    <content><![CDATA[lightFalloff(${1:constant}, ${2:linear}, ${3:quadratic})]]></content>
     <description>lightFalloff</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>light</tabTrigger>

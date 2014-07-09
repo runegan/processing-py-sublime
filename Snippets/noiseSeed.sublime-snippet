@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[noiseSeed(${1:x});]]></content>
+    <content><![CDATA[noiseSeed(${1:x})]]></content>
     <description>noiseSeed</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>noiseseed</tabTrigger>

@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[ellipse(${1:x}, ${2:y}, ${3:width}, ${4:height});]]></content>
+    <content><![CDATA[ellipse(${1:x}, ${2:y}, ${3:width}, ${4:height})]]></content>
     <description>ellipse</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>ellipse</tabTrigger>

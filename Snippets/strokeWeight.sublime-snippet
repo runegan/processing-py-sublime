@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[strokeWeight(${1:1});]]></content>
+    <content><![CDATA[strokeWeight(${1:1})]]></content>
     <description>strokeWeight</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>stroke</tabTrigger>

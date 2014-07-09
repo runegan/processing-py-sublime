@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[noise(${1:x}${5:, ${2:y}${4:, ${3:z}}});]]></content>
+    <content><![CDATA[noise(${1:x}${5:, ${2:y}${4:, ${3:z}}})]]></content>
     <description>noise</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>noise</tabTrigger>

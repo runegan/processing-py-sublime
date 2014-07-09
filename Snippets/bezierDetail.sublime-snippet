@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[bezierDetail(${1:detail});]]></content>
+    <content><![CDATA[bezierDetail(${1:detail})]]></content>
     <description>bezierDetail</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>bezier</tabTrigger>

@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[line(${1:x1}, ${2:y1}, ${3:x2}, ${4:y2});]]></content>
+    <content><![CDATA[line(${1:x1}, ${2:y1}, ${3:x2}, ${4:y2})]]></content>
     <description>line</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>line</tabTrigger>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[// Empties buffers. Call this when all previous issues commands completed
-gl.glFlush();]]></content>
+gl.glFlush()]]></content>
     <description>glFlush</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>glflush</tabTrigger>

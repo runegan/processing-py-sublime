@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[textLeading(${1:size});]]></content>
+    <content><![CDATA[textLeading(${1:size})]]></content>
     <description>textLeading</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>text</tabTrigger>

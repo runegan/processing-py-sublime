@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[radians(${1:deg});]]></content>
+    <content><![CDATA[radians(${1:deg})]]></content>
     <description>radians</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>radians</tabTrigger>

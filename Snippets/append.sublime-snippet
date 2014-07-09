@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[append(${1:array}, ${2:element});]]></content>
+    <content><![CDATA[append(${1:array}, ${2:element})]]></content>
     <description>append</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>append</tabTrigger>

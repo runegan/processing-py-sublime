@@ -18,7 +18,7 @@ vertices.put(v);
 
 // Bind the first buffer object ID for use with vertext array data
 gl.glBindBuffer(GL.GL_ARRAY_BUFFER, bufferObjects.get(0));
-gl.glBufferData(GL.GL_ARRAY_BUFFER, vertexCount * numCoordinates * BufferUtil.SIZEOF_FLOAT, vertices, GL.GL_STATIC_DRAW);]]></content>
+gl.glBufferData(GL.GL_ARRAY_BUFFER, vertexCount * numCoordinates * BufferUtil.SIZEOF_FLOAT, vertices, GL.GL_STATIC_DRAW)]]></content>
     <description>glGenBuffers</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>glgenbuffers</tabTrigger>

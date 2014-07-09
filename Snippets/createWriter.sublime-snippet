@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[createWriter(${1:filename});]]></content>
+    <content><![CDATA[createWriter(${1:filename})]]></content>
     <description>createWriter</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>file</tabTrigger>

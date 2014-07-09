@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[PImage(${1:width}, ${2:height});]]></content>
+    <content><![CDATA[PImage(${1:width}, ${2:height})]]></content>
     <description>PImage</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>pimage</tabTrigger>

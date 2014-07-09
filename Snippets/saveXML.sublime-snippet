@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[saveXML(${1:xml}, ${2:filename});]]></content>
+    <content><![CDATA[saveXML(${1:xml}, ${2:filename})]]></content>
     <description>saveXML</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>savex</tabTrigger>

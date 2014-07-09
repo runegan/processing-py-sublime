@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[noiseDetail(${1:octaves}${4:, ${3:falloff}});]]></content>
+    <content><![CDATA[noiseDetail(${1:octaves}${4:, ${3:falloff}})]]></content>
     <description>noiseDetail</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>noisedetail</tabTrigger>

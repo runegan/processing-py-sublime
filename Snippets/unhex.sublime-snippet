@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[unhex(${3:c});]]></content>
+    <content><![CDATA[unhex(${3:c})]]></content>
     <description>unhex</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>unhex</tabTrigger>

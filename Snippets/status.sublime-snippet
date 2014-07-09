@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[status(${1:text});]]></content>
+    <content><![CDATA[status(${1:text})]]></content>
     <description>status</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>status</tabTrigger>

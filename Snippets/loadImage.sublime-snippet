@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[loadImage(${1:filename});]]></content>
+    <content><![CDATA[loadImage(${1:filename})]]></content>
     <description>loadImage</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>loadimage</tabTrigger>

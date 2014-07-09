@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[gl.glClearColor(${1:red}, ${2:green}, ${3:blue}, ${4:alpha});]]></content>
+    <content><![CDATA[gl.glClearColor(${1:red}, ${2:green}, ${3:blue}, ${4:alpha})]]></content>
     <description>glClearColor</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>glclearcolor</tabTrigger>

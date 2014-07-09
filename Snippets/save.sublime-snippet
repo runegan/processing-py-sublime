@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[saveFrame(${2:"${1:filename}"});]]></content>
+    <content><![CDATA[saveFrame(${2:"${1:filename}"})]]></content>
     <description>save</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>save</tabTrigger>

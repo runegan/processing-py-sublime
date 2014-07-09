@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[hue(${1:color});]]></content>
+    <content><![CDATA[hue(${1:color})]]></content>
     <description>hue</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>hue</tabTrigger>

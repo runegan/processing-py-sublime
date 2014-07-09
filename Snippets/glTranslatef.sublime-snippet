@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[// multiply the current matrix by a translation matrix
-gl.glTranslatef(${1:x}, ${2:y}, ${3:z});]]></content>
+gl.glTranslatef(${1:x}, ${2:y}, ${3:z})]]></content>
     <description>glTranslatef</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>gltranslatef</tabTrigger>

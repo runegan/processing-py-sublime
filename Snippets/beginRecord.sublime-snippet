@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[beginRecord(${1:renderer}, ${2:filename});]]></content>
+    <content><![CDATA[beginRecord(${1:renderer}, ${2:filename})]]></content>
     <description>beginRecord</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>file</tabTrigger>

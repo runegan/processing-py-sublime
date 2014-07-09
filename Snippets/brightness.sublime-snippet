@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[brightness(${1:color});]]></content>
+    <content><![CDATA[brightness(${1:color})]]></content>
     <description>brightness</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>brightness</tabTrigger>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[PGraphics pg;
-pg = createGraphics(${5:${1:width}, ${2:height}${4:, ${3:applet}}});]]></content>
+pg = createGraphics(${5:${1:width}, ${2:height}${4:, ${3:applet}}})]]></content>
     <description>PGraphics</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>pgraphics</tabTrigger>

@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[random(${1:value1}${3:, ${2:value2}});]]></content>
+    <content><![CDATA[random(${1:value1}${3:, ${2:value2}})]]></content>
     <description>random</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>random</tabTrigger>

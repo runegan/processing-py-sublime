@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[createShape(${1:type});]]></content>
+    <content><![CDATA[createShape(${1:type})]]></content>
     <description>createShape</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>createshape</tabTrigger>

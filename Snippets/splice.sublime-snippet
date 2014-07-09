@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[splice(${1:array}, ${2:value/array2}, ${3:index});]]></content>
+    <content><![CDATA[splice(${1:array}, ${2:value/array2}, ${3:index})]]></content>
     <description>splice</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>splice</tabTrigger>

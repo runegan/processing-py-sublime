@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[shininess(${1:shine});]]></content>
+    <content><![CDATA[shininess(${1:shine})]]></content>
     <description>shininess</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>material</tabTrigger>

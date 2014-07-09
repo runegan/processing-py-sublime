@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[rect(${1:x}, ${2:y}, ${3:width}, ${4:height});]]></content>
+    <content><![CDATA[rect(${1:x}, ${2:y}, ${3:width}, ${4:height})]]></content>
     <description>rect</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>rect</tabTrigger>

@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[max(${1:value1}, ${2:value2});]]></content>
+    <content><![CDATA[max(${1:value1}, ${2:value2})]]></content>
     <description>max</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>max</tabTrigger>

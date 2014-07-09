@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[shorten(${1:array});]]></content>
+    <content><![CDATA[shorten(${1:array})]]></content>
     <description>shorten</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>shorten</tabTrigger>

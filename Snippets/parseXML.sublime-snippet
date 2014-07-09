@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[parseXML(${1:rawString});]]></content>
+    <content><![CDATA[parseXML(${1:rawString})]]></content>
     <description>parseXML</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>parse</tabTrigger>

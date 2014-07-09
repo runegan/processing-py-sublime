@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[curveTightness(${1:squishy});]]></content>
+    <content><![CDATA[curveTightness(${1:squishy})]]></content>
     <description>curveTightness</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>curve</tabTrigger>

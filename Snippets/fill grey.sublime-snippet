@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[fill(${1:grey});]]></content>
+    <content><![CDATA[fill(${1:grey})]]></content>
     <description>fill grey</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>fill</tabTrigger>

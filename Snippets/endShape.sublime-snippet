@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[endShape(${1:mode});]]></content>
+    <content><![CDATA[endShape(${1:mode})]]></content>
     <description>endShape</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>endshape</tabTrigger>

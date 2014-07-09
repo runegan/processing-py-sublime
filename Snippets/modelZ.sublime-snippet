@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[modelZ(${1:x}, ${2:y}, ${3:z});]]></content>
+    <content><![CDATA[modelZ(${1:x}, ${2:y}, ${3:z})]]></content>
     <description>modelZ</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>coordinates</tabTrigger>

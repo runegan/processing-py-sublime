@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[textFont(${1:font}${7:, ${6:size}});]]></content>
+    <content><![CDATA[textFont(${1:font}${7:, ${6:size}})]]></content>
     <description>textFont</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>text</tabTrigger>

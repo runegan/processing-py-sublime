@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[lerp(${1:value1}, ${2:value2}, ${3:amt});]]></content>
+    <content><![CDATA[lerp(${1:value1}, ${2:value2}, ${3:amt})]]></content>
     <description>lerp</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>lerp</tabTrigger>

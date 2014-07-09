@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[shapeMode(${1:CENTER});]]></content>
+	<content><![CDATA[shapeMode(${1:CENTER})]]></content>
 	<description>shapeMode</description>
 	<scope>source.python.pyde</scope>
 	<tabTrigger>shapemode</tabTrigger>

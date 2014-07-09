@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[dist(${1:x1}, ${2:y1}, ${3:z1}, ${4:x2}, ${5:y2}, ${6:z2});]]></content>
+    <content><![CDATA[dist(${1:x1}, ${2:y1}, ${3:z1}, ${4:x2}, ${5:y2}, ${6:z2})]]></content>
     <description>dist 3D</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>dist</tabTrigger>

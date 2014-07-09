@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[lightFalloff(${1:v1}, ${2:v2}, ${3:v3});]]></content>
+    <content><![CDATA[lightFalloff(${1:v1}, ${2:v2}, ${3:v3})]]></content>
     <description>lightSpecular</description>
     <scope>source.python.pyde</scope>
     <tabTrigger>light</tabTrigger>
