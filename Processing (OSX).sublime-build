@@ -1,0 +1,16 @@
+{
+    "shell_cmd": "/Users/quaestor/Applications/processing.py/processing-py.sh \"$file\"",
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "working_dir": "$file_path",
+    "selector": "source.python.pyde",
+
+    "variants": [
+        {
+            "name": "OSX Open with Processing",
+            "shell_cmd": "/Applications/Processing.app/Contents/MacOS/Processing \"$file\"",
+            "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+            "working_dir": "$file_path",
+            "selector": "source.python.pyde"
+        },
+    ]
+}
