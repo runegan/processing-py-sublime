@@ -251,7 +251,7 @@
         "UP",
         "WAIT",
         "WHITESPACE",
-        "XML"
+        "XML",
         "add",
         "addChild",
         "addColumn",
