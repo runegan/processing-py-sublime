@@ -1,6 +1,6 @@
 [
     {
-        "keys": ["ctrl+shift+]"], "command": "processing_py_ref_lookup"
+        "keys": ["ctrl+shift+["], "command": "processing_py_ref_lookup"
     },
     {
         "keys": ["ctrl+alt+shift+b"], "command": "show_overlay",
