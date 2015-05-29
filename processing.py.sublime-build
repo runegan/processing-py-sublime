@@ -1,4 +1,4 @@
 {
-    "selector" : "source.pyde",
+    "selector" : "source.python.pyde",
     "shell_cmd": "java -jar '${packages}/processing-py/processing-py.jar' '$file'",
 }
