@@ -1,4 +1,18 @@
 {
     "selector" : "source.python.pyde",
     "shell_cmd": "java -jar '${packages}/processing-py/processing-py.jar' '$file'",
+    "variants": [
+        {
+            "name": "Open with Processing",
+            "windows": {
+                "shell_cmd": "start processing '$file'",
+                },
+            "osx": {
+                "shell_cmd": "open -a processing '$file'",
+            },
+            "linux": {
+                "shell_cmd": "processing '$file'",
+            }
+        },
+    ]
 }
